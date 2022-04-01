@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AbdullahRah
 - 👀 I’m interested in all things Tech
-- 🌱 I’m currently learning Full Stack Development
-- 💞️ I’m looking to collaborate on building a mobile app
+- 🌱 I’m a Full Stack Developer
 - 📫 How to reach me - linkedin.com/in/abdullahrah
 
 <!---
